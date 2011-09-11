@@ -1,38 +1,38 @@
 TCinderella24v2
 v7
 r0
-t337225536.886568
+t337440396.996676
 cCheck dependencies
-cProcessInfoPlistFile /Users/b1006006/Desktop/Cinderella24final/build/Debug-iphonesimulator/Cinderella24v2.app/Info.plist Cinderella24v2-Info.plist
-cCompileXIB /Users/b1006006/Desktop/Cinderella24final/iPhone/MainWindow_iPhone.xib
-cCompileXIB /Users/b1006006/Desktop/Cinderella24final/iPad/MainWindow_iPad.xib
+cProcessInfoPlistFile /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Info.plist Cinderella24v2-Info.plist
+cCompileXIB /Users/b1006006/github/cinderella24/iPhone/MainWindow_iPhone.xib
+cCompileXIB /Users/b1006006/github/cinderella24/iPad/MainWindow_iPad.xib
 cCpResource build/Debug-iphonesimulator/Cinderella24v2.app/chat-background111.png chat-background111.png
 cCpResource build/Debug-iphonesimulator/Cinderella24v2.app/manfinal111.png manfinal111.png
 cCpResource build/Debug-iphonesimulator/Cinderella24v2.app/ladyfinal111.png ladyfinal111.png
 cCpResource build/Debug-iphonesimulator/Cinderella24v2.app/titletitletitle111.png titletitletitle111.png
 cCpResource build/Debug-iphonesimulator/Cinderella24v2.app/newtitle-didsizeedit.png newtitle-didsizeedit.png
-cProcessPCH /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-dsiuhocquvzjpgfwnpdhdkzuulsj/Cinderella24v2_Prefix.pch.gch Cinderella24v2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/main.o /Users/b1006006/Desktop/Cinderella24final/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/b1006006/Desktop/Cinderella24final/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPad.o /Users/b1006006/Desktop/Cinderella24final/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SelectionFirstViewController.o /Users/b1006006/Desktop/Cinderella24final/SelectionFirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/MessageViewController.o /Users/b1006006/Desktop/Cinderella24final/MessageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/TitleViewController.o /Users/b1006006/Desktop/Cinderella24final/TitleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/NSObject+SBJson.o /Users/b1006006/Desktop/Cinderella24final/Classes/NSObject+SBJson.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonParser.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParser.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamParserAccumulator.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAdapter.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamParserAdapter.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserState.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamParserState.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriter.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamWriterAccumulator.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterState.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamWriterState.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonTokeniser.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonTokeniser.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonUTF8Stream.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonUTF8Stream.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonWriter.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/b1006006/Desktop/Cinderella24final/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2 normal i386
-cGenerateDSYMFile /Users/b1006006/Desktop/Cinderella24final/build/Debug-iphonesimulator/Cinderella24v2.app.dSYM /Users/b1006006/Desktop/Cinderella24final/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2
-cTouch /Users/b1006006/Desktop/Cinderella24final/build/Debug-iphonesimulator/Cinderella24v2.app
+cProcessPCH /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch.gch Cinderella24v2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/main.o /Users/b1006006/github/cinderella24/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/b1006006/github/cinderella24/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPad.o /Users/b1006006/github/cinderella24/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SelectionFirstViewController.o /Users/b1006006/github/cinderella24/SelectionFirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/MessageViewController.o /Users/b1006006/github/cinderella24/MessageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/TitleViewController.o /Users/b1006006/github/cinderella24/TitleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/NSObject+SBJson.o /Users/b1006006/github/cinderella24/Classes/NSObject+SBJson.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonParser.o /Users/b1006006/github/cinderella24/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParser.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAccumulator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAdapter.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAdapter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserState.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriter.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterAccumulator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterState.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonTokeniser.o /Users/b1006006/github/cinderella24/Classes/SBJsonTokeniser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonUTF8Stream.o /Users/b1006006/github/cinderella24/Classes/SBJsonUTF8Stream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonWriter.o /Users/b1006006/github/cinderella24/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2 normal i386
+cGenerateDSYMFile /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app.dSYM /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2
+cTouch /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
 c000000004CC128950000000000000110
@@ -1514,6 +1514,425 @@ t1315432567
 s206
 i"message.h"
 
+N/Users/b1006006/github/cinderella24/Cinderella24v2_Prefix.pch
+c000000004E65C7CC00000000000000C5
+t1315293132
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/b1006006/github/cinderella24/Classes/NSObject+SBJson.h
+c000000004E6467B600000000000008B7
+t1315202998
+s2231
+i<Foundation/Foundation.h>
+
+N/Users/b1006006/github/cinderella24/Classes/NSObject+SBJson.m
+c000000004E6467B600000000000008A6
+t1315202998
+s2214
+i"NSObject+SBJson.h"
+i"SBJsonWriter.h"
+i"SBJsonParser.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJson.h
+c000000004E6467B60000000000000DA2
+t1315202998
+s3490
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"SBJsonStreamParser.h"
+i"SBJsonStreamParserAdapter.h"
+i"SBJsonStreamWriter.h"
+i"NSObject+SBJson.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonParser.h
+c000000004E6467B60000000000000DCA
+t1315202998
+s3530
+i<Foundation/Foundation.h>
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonParser.m
+c000000004E6467B60000000000000CC0
+t1315202998
+s3264
+i"SBJsonParser.h"
+i"SBJsonStreamParser.h"
+i"SBJsonStreamParserAdapter.h"
+i"SBJsonStreamParserAccumulator.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParser.h
+c000000004E6467B60000000000001550
+t1315202998
+s5456
+i<Foundation/Foundation.h>
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParser.m
+c000000004E6467B600000000000020D2
+t1315202998
+s8402
+i"SBJsonStreamParser.h"
+i"SBJsonTokeniser.h"
+i"SBJsonStreamParserState.h"
+i<limits.h>
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAccumulator.h
+c000000004E6467B600000000000006AE
+t1315202998
+s1710
+i<Foundation/Foundation.h>
+i"SBJsonStreamParserAdapter.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAccumulator.m
+c000000004E6467B6000000000000079B
+t1315202998
+s1947
+i"SBJsonStreamParserAccumulator.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAdapter.h
+c000000004E6467B6000000000000145D
+t1315202998
+s5213
+i<Foundation/Foundation.h>
+i"SBJsonStreamParser.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAdapter.m
+c000000004E6467B600000000000011DD
+t1315202998
+s4573
+i"SBJsonStreamParserAdapter.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserState.h
+c000000004E6467B60000000000000B22
+t1315202998
+s2850
+i<Foundation/Foundation.h>
+i"SBJsonTokeniser.h"
+i"SBJsonStreamParser.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserState.m
+c000000004E6467B60000000000001FB6
+t1315202998
+s8118
+i"SBJsonStreamParserState.h"
+i"SBJsonStreamParser.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriter.h
+c000000004E6467B6000000000000161D
+t1315202998
+s5661
+i<Foundation/Foundation.h>
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriter.m
+c000000004E6467B60000000000002956
+t1315202998
+s10582
+i"SBJsonStreamWriter.h"
+i"SBJsonStreamWriterState.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterAccumulator.h
+c000000004E6467B60000000000000693
+t1315202998
+s1683
+i"SBJsonStreamWriter.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterAccumulator.m
+c000000004E6467B600000000000007EB
+t1315202998
+s2027
+i"SBJsonStreamWriterAccumulator.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterState.h
+c000000004E6467B600000000000009EC
+t1315202998
+s2540
+i<Foundation/Foundation.h>
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterState.m
+c000000004E6467B60000000000000F61
+t1315202998
+s3937
+i"SBJsonStreamWriterState.h"
+i"SBJsonStreamWriter.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonTokeniser.h
+c000000004E6467B60000000000000888
+t1315202998
+s2184
+i<Foundation/Foundation.h>
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonTokeniser.m
+c000000004E6467B60000000000003386
+t1315202998
+s13190
+i"SBJsonTokeniser.h"
+i"SBJsonUTF8Stream.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonUTF8Stream.h
+c000000004E6467B6000000000000081E
+t1315202998
+s2078
+i<Foundation/Foundation.h>
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonUTF8Stream.m
+c000000004E6467B60000000000000F21
+t1315202998
+s3873
+i"SBJsonUTF8Stream.h"
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonWriter.h
+c000000004E6467B60000000000001059
+t1315202998
+s4185
+i<Foundation/Foundation.h>
+
+N/Users/b1006006/github/cinderella24/Classes/SBJsonWriter.m
+c000000004E6467B60000000000000DBF
+t1315202998
+s3519
+i"SBJsonWriter.h"
+i"SBJsonStreamWriter.h"
+i"SBJsonStreamWriterAccumulator.h"
+
+N/Users/b1006006/github/cinderella24/MessageViewController.h
+c000000004E68846A00000000000005FB
+t1315472490
+s1531
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/b1006006/github/cinderella24/MessageViewController.m
+c000000004E688D4C0000000000003FDC
+t1315474764
+s16348
+i"MessageViewController.h"
+i"SelectionFirstViewController.h"
+i"SBJson.h"
+
+N/Users/b1006006/github/cinderella24/SelectionFirstViewController.h
+c000000004E6763E500000000000001BD
+t1315398629
+s445
+i<UIKit/UIKit.h>
+i"MessageViewController.h"
+
+N/Users/b1006006/github/cinderella24/SelectionFirstViewController.m
+c000000004E68710B0000000000001395
+t1315467531
+s5013
+i"SelectionFirstViewController.h"
+i"AppDelegate_iPhone.h"
+
+N/Users/b1006006/github/cinderella24/Shared/main.m
+c000000004E65C7CC000000000000017C
+t1315293132
+s380
+i<UIKit/UIKit.h>
+
+N/Users/b1006006/github/cinderella24/TitleViewController.h
+c000000004E6741C800000000000001B4
+t1315389896
+s436
+i<UIKit/UIKit.h>
+i"SelectionFirstViewController.h"
+i"MessageViewController.h"
+
+N/Users/b1006006/github/cinderella24/TitleViewController.m
+c000000004E6870CD0000000000000D19
+t1315467469
+s3353
+i"TitleViewController.h"
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPad.o
+t1315747363
+s48404
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPhone.o
+t1315747363
+s56652
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/Cinderella24v2.LinkFileList
+c000000004E6CB6200000000000000A67
+t1315747360
+s2663
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/MessageViewController.o
+t1315747363
+s76416
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/NSObject+SBJson.o
+t1315747363
+s8528
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonParser.o
+t1315747363
+s16420
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParser.o
+t1315747363
+s29760
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o
+t1315747363
+s10412
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAdapter.o
+t1315747363
+s24596
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserState.o
+t1315747363
+s45096
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriter.o
+t1315747363
+s45748
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o
+t1315747363
+s10688
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterState.o
+t1315747363
+s28096
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonTokeniser.o
+t1315747363
+s30624
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonUTF8Stream.o
+t1315747363
+s17456
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonWriter.o
+t1315747363
+s18532
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SelectionFirstViewController.o
+t1315747363
+s58648
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/TitleViewController.o
+t1315747363
+s46332
+
+N/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/main.o
+t1315747363
+s6312
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app
+t1315747364
+s680
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app.dSYM
+t1315747364
+s102
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2
+t1315747363
+s151312
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Info.plist
+t1315470750
+s979
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/MainWindow_iPad.nib
+t1315293652
+s982
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/MainWindow_iPhone.nib
+t1315293652
+s984
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/PkgInfo
+t1315470750
+s8
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/chat-background111.png
+t1315463638
+s32180
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/ladyfinal111.png
+t1315463423
+s24082
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/manfinal111.png
+t1315463423
+s19353
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/newtitle-didsizeedit.png
+t1315375642
+s61328
+
+N/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/titletitletitle111.png
+t1315390755
+s6142
+
+N/Users/b1006006/github/cinderella24/chat-background111.png
+c000000004E6861980000000000007DB4
+t1315463576
+s32180
+
+N/Users/b1006006/github/cinderella24/iPad/AppDelegate_iPad.h
+c000000004E65C7CC0000000000000156
+t1315293132
+s342
+i<UIKit/UIKit.h>
+
+N/Users/b1006006/github/cinderella24/iPad/AppDelegate_iPad.m
+c000000004E65C7CC00000000000006BC
+t1315293132
+s1724
+i"AppDelegate_iPad.h"
+
+N/Users/b1006006/github/cinderella24/iPad/MainWindow_iPad.xib
+c000000004E65C7CC00000000000036E2
+t1315293132
+s14050
+
+N/Users/b1006006/github/cinderella24/iPhone/AppDelegate_iPhone.h
+c000000004E688E8100000000000002F7
+t1315475073
+s759
+i<UIKit/UIKit.h>
+i"SelectionFirstViewController.h"
+i"MessageViewController.h"
+i"TitleViewController.h"
+
+N/Users/b1006006/github/cinderella24/iPhone/AppDelegate_iPhone.m
+c000000004E66D44A0000000000000C75
+t1315361866
+s3189
+i"AppDelegate_iPhone.h"
+i"SelectionFirstViewController.h"
+i"MessageViewController.h"
+i"TitleViewController.h"
+
+N/Users/b1006006/github/cinderella24/iPhone/MainWindow_iPhone.xib
+c000000004E65C7CC0000000000003911
+t1315293132
+s14609
+
+N/Users/b1006006/github/cinderella24/ladyfinal111.png
+c000000004E685FC50000000000005E12
+t1315463109
+s24082
+
+N/Users/b1006006/github/cinderella24/manfinal111.png
+c000000004E6860330000000000004B99
+t1315463219
+s19353
+
+N/Users/b1006006/github/cinderella24/newtitle-didsizeedit.png
+c000000004E6709FC000000000000EF90
+t1315375612
+s61328
+
+N/Users/b1006006/github/cinderella24/titletitletitle111.png
+c000000004E6743CE00000000000017FE
+t1315390414
+s6142
+
 N/Users/b1006006/json-framework/Classes/NSObject+SBJson.h
 c000000004E6467B600000000000008B7
 t1315202998
@@ -1598,6 +2017,10 @@ N/var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/Shared
 t1315475051
 s15453392
 
+N/var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch.gch
+t1315747363
+s15453392
+
 N/var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-dsiuhocquvzjpgfwnpdhdkzuulsj/Cinderella24v2_Prefix.pch.gch
 t1315527843
 s15453392
@@ -1609,7 +2032,7 @@ s1407
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies337225536#337225536#0(0"0(0#1#0"8606611328#0"0#
+lSLF07#2@18"Check dependencies337440396#337440396#0(0"0(0#1#0"8601945056#0"0#
 
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPad.o /Users/b1006006/Desktop/Cinderella24final/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.754723
@@ -1650,6 +2073,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@80"Compile /Users/b1006006/Documents/program/Cinderella24v2/iPad/AppDelegate_iPad.m337106205#337106205#0(0"0(0#0#72"/Users/b1006006/Documents/program/Cinderella24v2/iPad/AppDelegate_iPad.m8618379808#2193"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/iPad/AppDelegate_iPad.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPad.o0#
 
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPad.o /Users/b1006006/github/cinderella24/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.584466
+e337440163.677470
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPad.o
+x/Users/b1006006/github/cinderella24/iPad/AppDelegate_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/b1006006/github/cinderella24/iPad/AppDelegate_iPad.m337440163#337440163#0(0"0(0#0#59"/Users/b1006006/github/cinderella24/iPad/AppDelegate_iPad.m8604169088#2050"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/iPad/AppDelegate_iPad.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPad.o0#
+
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/b1006006/Desktop/Cinderella24final/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.754184
 e337220643.871590
@@ -1688,6 +2124,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@84"Compile /Users/b1006006/Documents/program/Cinderella24v2/iPhone/AppDelegate_iPhone.m337165367#337165367#0(0"0(0#0#76"/Users/b1006006/Documents/program/Cinderella24v2/iPhone/AppDelegate_iPhone.m8618167200#2199"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/iPhone/AppDelegate_iPhone.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPhone.o0#
+
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/b1006006/github/cinderella24/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.583384
+e337440163.690887
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPhone.o
+x/Users/b1006006/github/cinderella24/iPhone/AppDelegate_iPhone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/b1006006/github/cinderella24/iPhone/AppDelegate_iPhone.m337440163#337440163#0(0"0(0#0#63"/Users/b1006006/github/cinderella24/iPhone/AppDelegate_iPhone.m8598740448#2056"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/iPhone/AppDelegate_iPhone.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/AppDelegate_iPhone.o0#
 
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/ChatStream.o /Users/b1006006/Documents/program/Cinderella24v2/ChatStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337127209.492085
@@ -1759,6 +2208,25 @@ o/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m:413: w
 o/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m:413: warning: method definition for '-labelMake:setFrame:' not found
 lSLF07#2@80"Compile /Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m337167626#337167626#0(993"/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m:413: warning: property 'mArray' requires method '-mArray' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m:413: warning: property 'mArray' requires the method 'setMArray:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m:413: warning: incomplete implementation of class 'MessageViewController'/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m:413: warning: method definition for '+labelRectFor:' not found/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m:413: warning: incomplete implementation of class 'MessageViewController'/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m:413: warning: method definition for '-labelMake:setFrame:' not found6(22@120"Property 'mArray' requires method '-mArray' to be defined - use @synthesize, @dynamic or provide a method implementation337167626#0#208#0(6@72"/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m337167564#413#0#413#0#0"0(22@127"Property 'mArray' requires the method 'setMArray:' to be defined - use @synthesize, @dynamic or provide a method implementation337167626#208#215#0(6@72"/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m337167564#413#0#413#0#0"0(22@58"Incomplete implementation of class 'MessageViewController'337167626#423#146#0(6@72"/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m337167564#413#0#413#0#38"incomplete implementation of class '*'0(22@48"Method definition for '+labelRectFor:' not found337167626#569#136#0(6@72"/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m337167564#413#0#413#0#35"method definition for '*' not found0(22@58"Incomplete implementation of class 'MessageViewController'337167626#705#146#0(6@72"/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m337167564#413#0#413#0#38"incomplete implementation of class '*'0(22@54"Method definition for '-labelMake:setFrame:' not found337167626#851#142#0(6@72"/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m337167564#413#0#413#0#35"method definition for '*' not found0(0#0#72"/Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m8614408800#2198"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/MessageViewController.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/MessageViewController.o0#
 
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/MessageViewController.o /Users/b1006006/github/cinderella24/MessageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.587151
+e337440163.747334
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/MessageViewController.o
+x/Users/b1006006/github/cinderella24/MessageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: property 'mArray' requires method '-mArray' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: property 'mArray' requires the method 'setMArray:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: incomplete implementation of class 'MessageViewController'
+o/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: method definition for '+labelRectFor:' not found
+o/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: incomplete implementation of class 'MessageViewController'
+o/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: method definition for '-labelMake:setFrame:' not found
+lSLF07#2@67"Compile /Users/b1006006/github/cinderella24/MessageViewController.m337440163#337440163#0(915"/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: property 'mArray' requires method '-mArray' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: property 'mArray' requires the method 'setMArray:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: incomplete implementation of class 'MessageViewController'/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: method definition for '+labelRectFor:' not found/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: incomplete implementation of class 'MessageViewController'/Users/b1006006/github/cinderella24/MessageViewController.m:413: warning: method definition for '-labelMake:setFrame:' not found6(22@120"Property 'mArray' requires method '-mArray' to be defined - use @synthesize, @dynamic or provide a method implementation337440163#0#195#0(6@59"/Users/b1006006/github/cinderella24/MessageViewController.m337167564#413#0#413#0#0"0(22@127"Property 'mArray' requires the method 'setMArray:' to be defined - use @synthesize, @dynamic or provide a method implementation337440163#195#202#0(6@59"/Users/b1006006/github/cinderella24/MessageViewController.m337167564#413#0#413#0#0"0(22@58"Incomplete implementation of class 'MessageViewController'337440163#397#133#0(6@59"/Users/b1006006/github/cinderella24/MessageViewController.m337167564#413#0#413#0#38"incomplete implementation of class '*'0(22@48"Method definition for '+labelRectFor:' not found337440163#530#123#0(6@59"/Users/b1006006/github/cinderella24/MessageViewController.m337167564#413#0#413#0#35"method definition for '*' not found0(22@58"Incomplete implementation of class 'MessageViewController'337440163#653#133#0(6@59"/Users/b1006006/github/cinderella24/MessageViewController.m337167564#413#0#413#0#38"incomplete implementation of class '*'0(22@54"Method definition for '-labelMake:setFrame:' not found337440163#786#129#0(6@59"/Users/b1006006/github/cinderella24/MessageViewController.m337167564#413#0#413#0#35"method definition for '*' not found0(0#0#59"/Users/b1006006/github/cinderella24/MessageViewController.m8602230784#2055"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/MessageViewController.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/MessageViewController.o0#
+
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/NSObject+SBJson.o /Users/b1006006/Desktop/Cinderella24final/Classes/NSObject+SBJson.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.757163
 e337220643.869147
@@ -1800,6 +2268,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@106"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/NSObject+SBJson.m337154902#337154902#0(0"0(0#0#98"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/NSObject+SBJson.m8621149280#2218"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/NSObject+SBJson.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/NSObject+SBJson.o0#
+
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/NSObject+SBJson.o /Users/b1006006/github/cinderella24/Classes/NSObject+SBJson.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.589267
+e337440163.666213
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/NSObject+SBJson.o
+x/Users/b1006006/github/cinderella24/Classes/NSObject+SBJson.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/b1006006/github/cinderella24/Classes/NSObject+SBJson.m337440163#337440163#0(0"0(0#0#61"/Users/b1006006/github/cinderella24/Classes/NSObject+SBJson.m8603624128#2051"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/NSObject+SBJson.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/NSObject+SBJson.o0#
 
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonParser.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.757914
@@ -1843,6 +2324,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@103"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonParser.m337154902#337154902#0(0"0(0#0#95"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonParser.m8615816256#2212"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonParser.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonParser.o0#
 
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonParser.o /Users/b1006006/github/cinderella24/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.590247
+e337440163.667716
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonParser.o
+x/Users/b1006006/github/cinderella24/Classes/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/b1006006/github/cinderella24/Classes/SBJsonParser.m337440163#337440163#0(0"0(0#0#58"/Users/b1006006/github/cinderella24/Classes/SBJsonParser.m8604128672#2045"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/SBJsonParser.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonParser.o0#
+
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParser.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.869396
 e337220643.952076
@@ -1884,6 +2378,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@109"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParser.m337154902#337154902#0(0"0(0#0#101"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParser.m8615394944#2224"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParser.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParser.o0#
+
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParser.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.666372
+e337440163.769340
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParser.o
+x/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParser.m337440163#337440163#0(0"0(0#0#64"/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParser.m3904673886225052160#2057"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParser.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParser.o0#
 
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamParserAccumulator.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.870168
@@ -1927,6 +2434,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@120"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParserAccumulator.m337154902#337154902#0(0"0(0#0#112"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParserAccumulator.m8616888672#2246"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParserAccumulator.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o0#
 
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAccumulator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.667812
+e337440163.728913
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o
+x/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAccumulator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAccumulator.m337440163#337440163#0(0"0(0#0#75"/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAccumulator.m8602271808#2079"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAccumulator.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAccumulator.o0#
+
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAdapter.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamParserAdapter.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.870781
 e337220643.945253
@@ -1968,6 +2488,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@116"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParserAdapter.m337154902#337154902#0(0"0(0#0#108"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParserAdapter.m8622033344#2238"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParserAdapter.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAdapter.o0#
+
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAdapter.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAdapter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.669153
+e337440163.776059
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAdapter.o
+x/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAdapter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAdapter.m337440163#337440163#0(0"0(0#0#71"/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAdapter.m8604551392#2071"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserAdapter.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserAdapter.o0#
 
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserState.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamParserState.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.872011
@@ -2011,6 +2544,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@114"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParserState.m337154902#337154902#0(0"0(0#0#106"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParserState.m8621597376#2234"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamParserState.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserState.o0#
 
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserState.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.677586
+e337440163.776830
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserState.o
+x/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserState.m337440163#337440163#0(0"0(0#0#69"/Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserState.m8605980256#2067"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/SBJsonStreamParserState.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamParserState.o0#
+
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriter.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.872770
 e337220643.980052
@@ -2052,6 +2598,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@109"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamWriter.m337154902#337154902#0(0"0(0#0#101"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamWriter.m8621163872#2224"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamWriter.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriter.o0#
+
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriter.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.684527
+e337440163.818154
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriter.o
+x/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriter.m337440163#337440163#0(0"0(0#0#64"/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriter.m8596100480#2057"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriter.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriter.o0#
 
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamWriterAccumulator.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.873635
@@ -2095,6 +2654,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@120"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamWriterAccumulator.m337154902#337154902#0(0"0(0#0#112"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamWriterAccumulator.m8617876160#2246"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamWriterAccumulator.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o0#
 
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterAccumulator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.691011
+e337440163.744074
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o
+x/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterAccumulator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterAccumulator.m337440163#337440163#0(0"0(0#0#75"/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterAccumulator.m8604245184#2079"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterAccumulator.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterAccumulator.o0#
+
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterState.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonStreamWriterState.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.878928
 e337220643.952350
@@ -2136,6 +2708,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@114"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamWriterState.m337154902#337154902#0(0"0(0#0#106"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamWriterState.m8617485312#2234"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonStreamWriterState.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterState.o0#
+
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterState.o /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterState.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.718191
+e337440163.785803
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterState.o
+x/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterState.m337440163#337440163#0(0"0(0#0#69"/Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterState.m8604175616#2067"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/SBJsonStreamWriterState.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonStreamWriterState.o0#
 
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonTokeniser.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonTokeniser.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.923536
@@ -2179,6 +2764,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@106"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonTokeniser.m337154902#337154902#0(0"0(0#0#98"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonTokeniser.m8617017120#2218"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonTokeniser.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonTokeniser.o0#
 
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonTokeniser.o /Users/b1006006/github/cinderella24/Classes/SBJsonTokeniser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.729021
+e337440163.814822
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonTokeniser.o
+x/Users/b1006006/github/cinderella24/Classes/SBJsonTokeniser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/b1006006/github/cinderella24/Classes/SBJsonTokeniser.m337440163#337440163#0(0"0(0#0#61"/Users/b1006006/github/cinderella24/Classes/SBJsonTokeniser.m8604548160#2051"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/SBJsonTokeniser.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonTokeniser.o0#
+
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonUTF8Stream.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonUTF8Stream.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.924702
 e337220643.987250
@@ -2221,6 +2819,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@107"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonUTF8Stream.m337154902#337154902#0(0"0(0#0#99"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonUTF8Stream.m8616704256#2220"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonUTF8Stream.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonUTF8Stream.o0#
 
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonUTF8Stream.o /Users/b1006006/github/cinderella24/Classes/SBJsonUTF8Stream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.744192
+e337440163.803308
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonUTF8Stream.o
+x/Users/b1006006/github/cinderella24/Classes/SBJsonUTF8Stream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/b1006006/github/cinderella24/Classes/SBJsonUTF8Stream.m337440163#337440163#0(0"0(0#0#62"/Users/b1006006/github/cinderella24/Classes/SBJsonUTF8Stream.m8604093056#2053"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/SBJsonUTF8Stream.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonUTF8Stream.o0#
+
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonWriter.o /Users/b1006006/Desktop/Cinderella24final/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.930303
 e337220643.986648
@@ -2262,6 +2873,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@103"Compile /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonWriter.m337154902#337154902#0(0"0(0#0#95"/Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonWriter.m8615830880#2212"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/../../../json-framework/Classes/SBJsonWriter.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonWriter.o /Users/b1006006/github/cinderella24/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.747451
+e337440163.808697
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/b1006006/github/cinderella24/Classes/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/b1006006/github/cinderella24/Classes/SBJsonWriter.m337440163#337440163#0(0"0(0#0#58"/Users/b1006006/github/cinderella24/Classes/SBJsonWriter.m8603757280#2045"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Classes/SBJsonWriter.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SBJsonWriter.o0#
 
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SelectionFirstViewController.o /Users/b1006006/Desktop/Cinderella24final/SelectionFirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220643.755236
@@ -2310,6 +2934,22 @@ o/Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m
 o/Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m:138: warning: method definition for '-ladySetting' not found
 o/Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m:138: warning: method definition for '-manSetting' not found
 lSLF07#2@87"Compile /Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m337165367#337165367#0(441"/Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m:138: warning: incomplete implementation of class 'SelectionFirstViewController'/Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m:138: warning: method definition for '-ladySetting' not found/Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m:138: warning: method definition for '-manSetting' not found3(22@65"Incomplete implementation of class 'SelectionFirstViewController'337165367#0#160#0(6@79"/Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m337160331#138#0#138#0#38"incomplete implementation of class '*'0(22@46"Method definition for '-ladySetting' not found337165367#160#141#0(6@79"/Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m337160331#138#0#138#0#35"method definition for '*' not found0(22@45"Method definition for '-manSetting' not found337165367#301#140#0(6@79"/Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m337160331#138#0#138#0#35"method definition for '*' not found0(0#0#79"/Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m8616791136#2212"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/SelectionFirstViewController.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SelectionFirstViewController.o0#
+
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SelectionFirstViewController.o /Users/b1006006/github/cinderella24/SelectionFirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.585824
+e337440163.717893
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SelectionFirstViewController.o
+x/Users/b1006006/github/cinderella24/SelectionFirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/b1006006/github/cinderella24/SelectionFirstViewController.m:138: warning: incomplete implementation of class 'SelectionFirstViewController'
+o/Users/b1006006/github/cinderella24/SelectionFirstViewController.m:138: warning: method definition for '-ladySetting' not found
+o/Users/b1006006/github/cinderella24/SelectionFirstViewController.m:138: warning: method definition for '-manSetting' not found
+lSLF07#2@74"Compile /Users/b1006006/github/cinderella24/SelectionFirstViewController.m337440163#337440163#0(402"/Users/b1006006/github/cinderella24/SelectionFirstViewController.m:138: warning: incomplete implementation of class 'SelectionFirstViewController'/Users/b1006006/github/cinderella24/SelectionFirstViewController.m:138: warning: method definition for '-ladySetting' not found/Users/b1006006/github/cinderella24/SelectionFirstViewController.m:138: warning: method definition for '-manSetting' not found3(22@65"Incomplete implementation of class 'SelectionFirstViewController'337440163#0#147#0(6@66"/Users/b1006006/github/cinderella24/SelectionFirstViewController.m337160331#138#0#138#0#38"incomplete implementation of class '*'0(22@46"Method definition for '-ladySetting' not found337440163#147#128#0(6@66"/Users/b1006006/github/cinderella24/SelectionFirstViewController.m337160331#138#0#138#0#35"method definition for '*' not found0(22@45"Method definition for '-manSetting' not found337440163#275#127#0(6@66"/Users/b1006006/github/cinderella24/SelectionFirstViewController.m337160331#138#0#138#0#35"method definition for '*' not found0(0#0#66"/Users/b1006006/github/cinderella24/SelectionFirstViewController.m8603911264#2069"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/SelectionFirstViewController.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/SelectionFirstViewController.o0#
 
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/TableView.o /Users/b1006006/Documents/program/Cinderella24v2/TableView.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -2379,6 +3019,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@78"Compile /Users/b1006006/Documents/program/Cinderella24v2/TitleViewController.m337165367#337165367#0(0"0(0#0#70"/Users/b1006006/Documents/program/Cinderella24v2/TitleViewController.m8617120224#2194"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/TitleViewController.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/TitleViewController.o0#
 
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/TitleViewController.o /Users/b1006006/github/cinderella24/TitleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.588155
+e337440163.684412
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/TitleViewController.o
+x/Users/b1006006/github/cinderella24/TitleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/b1006006/github/cinderella24/TitleViewController.m337440163#337440163#0(0"0(0#0#57"/Users/b1006006/github/cinderella24/TitleViewController.m8603909184#2051"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/TitleViewController.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/TitleViewController.o0#
+
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/TopView.o /Users/b1006006/Documents/program/Cinderella24v2/TopView.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
@@ -2421,6 +3074,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@70"Compile /Users/b1006006/Documents/program/Cinderella24v2/Shared/main.m337106205#337106205#0(0"0(0#0#62"/Users/b1006006/Documents/program/Cinderella24v2/Shared/main.m8618548000#2171"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch -c /Users/b1006006/Documents/program/Cinderella24v2/Shared/main.m -o /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/main.o0#
 
+CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/main.o /Users/b1006006/github/cinderella24/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440163.581760
+e337440163.667543
+r1
+xCompileC
+xbuild/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/main.o
+x/Users/b1006006/github/cinderella24/Shared/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/b1006006/github/cinderella24/Shared/main.m337440163#337440163#0(0"0(0#0#49"/Users/b1006006/github/cinderella24/Shared/main.m8605921760#2028"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -include /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch -c /Users/b1006006/github/cinderella24/Shared/main.m -o /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/main.o0#
+
 CCompileC build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/message.o /Users/b1006006/Documents/program/Cinderella24v2/message.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
@@ -2451,6 +3117,12 @@ r1
 xCompileXIB
 x/Users/b1006006/Documents/program/Cinderella24v2/iPhone/MainWindow_iPhone.xib
 lSLF07#2@39"CompileXIB iPhone/MainWindow_iPhone.xib336986452#336986452#0(0"0(0#0#77"/Users/b1006006/Documents/program/Cinderella24v2/iPhone/MainWindow_iPhone.xib8616905120#628"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app/MainWindow_iPhone.nib /Users/b1006006/Documents/program/Cinderella24v2/iPhone/MainWindow_iPhone.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/b1006006/github/cinderella24/iPad/MainWindow_iPad.xib
+r0
+
+CCompileXIB /Users/b1006006/github/cinderella24/iPhone/MainWindow_iPhone.xib
+r0
 
 CCpResource build/Debug-iphonesimulator/Cinderella24v2.app/chat-background111.png ../../../Downloads/chat-background111.png
 s337156438.957230
@@ -2611,6 +3283,15 @@ x/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Ci
 x/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2
 lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/Cinderella24v2.app.dSYM build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2337167626#337167626#0(0"0(0#0#110"/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v28624190240#434"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2 -o /Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app.dSYM0#
 
+CGenerateDSYMFile /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app.dSYM /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2
+s337440163.960458
+e337440164.027262
+r1
+xGenerateDSYMFile
+x/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app.dSYM
+x/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/Cinderella24v2.app.dSYM build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2337440163#337440164#0(0"0(0#0#97"/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v28608169696#395"    cd /Users/b1006006/github/cinderella24    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2 -o /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app.dSYM0#
+
 CLd /Users/b1006006/Desktop/Cinderella24final/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2 normal i386
 s337220643.993722
 e337220644.189296
@@ -2641,6 +3322,16 @@ xnormal
 xi386
 lSLF07#2@115"Link /Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2337167626#337167626#0(0"0(0#0#0"8602558528#1007"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -F/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator -filelist /Users/b1006006/Documents/program/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/Cinderella24v2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v20#
 
+CLd /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2 normal i386
+s337440163.818223
+e337440163.960353
+r1
+xLd
+x/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2
+xnormal
+xi386
+lSLF07#2@102"Link /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v2337440163#337440163#0(0"0(0#0#0"8601095200#942"    cd /Users/b1006006/github/cinderella24    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -filelist /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Objects-normal/i386/Cinderella24v2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Cinderella24v20#
+
 CProcessInfoPlistFile /Users/b1006006/Desktop/Cinderella24final/build/Debug-iphonesimulator/Cinderella24v2.app/Info.plist Cinderella24v2-Info.plist
 r0
 
@@ -2655,6 +3346,9 @@ xProcessInfoPlistFile
 x/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app/Info.plist
 xCinderella24v2-Info.plist
 lSLF07#2@33"Process Cinderella24v2-Info.plist337163550#337163550#0(0"0(0#0#74"/Users/b1006006/Documents/program/Cinderella24v2/Cinderella24v2-Info.plist8620592864#530"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Cinderella24v2-Info.plist -genpkginfo /Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app/Info.plist Cinderella24v2-Info.plist
+r0
 
 CProcessPCH /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-bjaxkhkinkfebbgtowqrigotxdyk/Cinderella24v2_Prefix.pch.gch Cinderella24v2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s336986452.282425
@@ -2681,6 +3375,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@36"Precompile Cinderella24v2_Prefix.pch337167850#337167851#0(0"0(0#0#64"/Users/b1006006/Desktop/Cinderella24v2/Cinderella24v2_Prefix.pch7958543764249143296#1939"    cd /Users/b1006006/Desktop/Cinderella24v2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/Desktop/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/Desktop/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/Desktop/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/Desktop/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/Desktop/Cinderella24v2/build/Debug-iphonesimulator -I/Users/b1006006/Desktop/Cinderella24v2/build/Debug-iphonesimulator/include -I/Users/b1006006/Desktop/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/Desktop/Cinderella24v2/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -c /Users/b1006006/Desktop/Cinderella24v2/Cinderella24v2_Prefix.pch -o /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-cmrnldvxnwrbmpcpjrarujayimsd/Cinderella24v2_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch.gch Cinderella24v2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s337440160.292362
+e337440163.581450
+r1
+xProcessPCH
+x/var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch.gch
+xCinderella24v2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile Cinderella24v2_Prefix.pch337440160#337440163#0(0"0(0#0#61"/Users/b1006006/github/cinderella24/Cinderella24v2_Prefix.pch8319400181950343168#1909"    cd /Users/b1006006/github/cinderella24    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-generated-files.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-own-target-headers.hmap -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-all-target-headers.hmap -iquote /Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/Cinderella24v2-project-headers.hmap -F/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator -I/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/include -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources/i386 -I/Users/b1006006/github/cinderella24/build/Cinderella24v2.build/Debug-iphonesimulator/Cinderella24v2.build/DerivedSources -c /Users/b1006006/github/cinderella24/Cinderella24v2_Prefix.pch -o /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-crtsqbevmakikgcvykyxspofqhpf/Cinderella24v2_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/+N/+N1UaIbHHnCHNXZl7FK2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cinderella24v2_Prefix-dsiuhocquvzjpgfwnpdhdkzuulsj/Cinderella24v2_Prefix.pch.gch Cinderella24v2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s337220638.333539
@@ -2718,4 +3425,12 @@ r1
 xTouch
 x/Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app
 lSLF07#2@101"Touch /Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app337167626#337167626#0(0"0(0#0#0"8622127808#305"    cd /Users/b1006006/Documents/program/Cinderella24v2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/b1006006/Documents/program/Cinderella24v2/build/Debug-iphonesimulator/Cinderella24v2.app0#
+
+CTouch /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app
+s337440164.027328
+e337440164.029672
+r1
+xTouch
+x/Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app
+lSLF07#2@88"Touch /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app337440164#337440164#0(0"0(0#0#0"8605922656#279"    cd /Users/b1006006/github/cinderella24    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/b1006006/github/cinderella24/build/Debug-iphonesimulator/Cinderella24v2.app0#
 
